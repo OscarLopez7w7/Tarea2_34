@@ -1,0 +1,45 @@
+body{
+    font-family: helvetica;
+    background: #ADE89C;
+}
+
+.menu{
+    background: #D1E89C;
+    width: 90%;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+
+.opción{
+    display: inline-block;
+    text-align: center;
+    width: 19%;
+    border-width: 2px;
+    border-color: cyan;
+    border-style: solid;
+}
+    
+.opción:hover{
+    background: #77B3EC;
+}
+
+#imagenes{
+    height: 80%;
+    padding: 2%;
+    margin: 0px;
+}
+
+img{
+    width: 39%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 96%; 
+    display: inline-block;
+}
+

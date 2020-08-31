@@ -1,0 +1,40 @@
+body{
+    font-family: helvetica;
+    background: #ADE89C;
+}
+
+.menu{
+    background: #D1E89C;
+    width: 90%;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: block;
+}
+
+.opción{
+    display: inline-block;
+    text-align: center;
+    width: 19%;
+    border-width: 2px;
+    border-color: cyan;
+    border-style: solid;
+}
+    
+.opción:hover{
+    background: #77B3EC;
+}
+
+.hoja{
+    width: 640px;
+    height: 360px;
+    background: white;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-style: solid;
+}
